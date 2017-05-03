@@ -45,5 +45,3 @@
 #= require jquery.mCustomScrollbar
 #= require jquery.mCustomScrollbar.concat.min
 
-$ ->
-  new FastClick(document.body)
